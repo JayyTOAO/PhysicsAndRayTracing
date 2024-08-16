@@ -1,0 +1,13 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\YBYou\\OneDrive\\Java FX Stuff\\javafx-sdk-20\\lib\\javafx.base.jar",
+        "c:\\Users\\YBYou\\OneDrive\\Java FX Stuff\\javafx-sdk-20\\lib\\javafx.controls.jar",
+        "c:\\Users\\YBYou\\OneDrive\\Java FX Stuff\\javafx-sdk-20\\lib\\javafx.fxml.jar",
+        "c:\\Users\\YBYou\\OneDrive\\Java FX Stuff\\javafx-sdk-20\\lib\\javafx.graphics.jar",
+        "c:\\Users\\YBYou\\OneDrive\\Java FX Stuff\\javafx-sdk-20\\lib\\javafx.media.jar",
+        "c:\\Users\\YBYou\\OneDrive\\Java FX Stuff\\javafx-sdk-20\\lib\\javafx.swing.jar",
+        "c:\\Users\\YBYou\\OneDrive\\Java FX Stuff\\javafx-sdk-20\\lib\\javafx.web.jar",
+        "c:\\Users\\YBYou\\OneDrive\\Java FX Stuff\\javafx-sdk-20\\lib\\javafx-swt.jar"
+    ]
+}
